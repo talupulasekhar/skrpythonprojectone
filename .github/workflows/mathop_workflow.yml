@@ -1,6 +1,6 @@
 name: Math Operations Workflow
 on:
-  workflow_dispatch:
+  push:
 
 jobs:
   build:
