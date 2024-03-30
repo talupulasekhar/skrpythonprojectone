@@ -18,6 +18,7 @@ def min(x:int , y:int) -> int :
 
 
 
-
+print(max(5,6))
+print(min(10,15))
 
 
