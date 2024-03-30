@@ -1,10 +1,6 @@
 name: Math Operations Workflow With Params
 on:
   push:
-   inputs:
-     param_one:
-     type: string
-
 
 jobs:
   build:
