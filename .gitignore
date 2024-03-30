@@ -2,6 +2,7 @@
 ./env/**
 ./ExternalLibraries/*
 ./ExternalLibraries/**
-
+./dummyfiles/*
+./dummyfiles/**
 
 
