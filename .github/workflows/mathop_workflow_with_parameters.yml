@@ -1,4 +1,4 @@
-name: Math Operations Workflow
+name: Math Operations Workflow With Params
 on:
   push:
    inputs:
